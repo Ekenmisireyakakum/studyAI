@@ -1,0 +1,6 @@
+{
+  "name": "ExamPrep AI - Notes Summarizer & Exam Generator",
+  "description": "Transform class notes into structured summaries, key takeaways, flashcards, and practice exam questions with interactive quiz mode, instant AI grading, and detailed explanations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
